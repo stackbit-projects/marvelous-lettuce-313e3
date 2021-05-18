@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: Helping you master the shoulder
     content: |
-      Patient-Centred. Evidence-Based. Multidisciplinary. Clinical Experience.
+      Patient-Centred. Evidence-Based. Multidisciplinary. Clinical Expertise.
     actions:
       - label: Try Free
         url: /pricing
