@@ -57,8 +57,8 @@ sections:
           Patient-Centred. Evidence-Based. Multidisciplinary. Clinical
           Expertise.
         content: >
-          Our goal is simple – share what we are learning now and what we've
-          learned over the years, including our clinical pearls.
+          Our goal is simple – share with you what we're learning now and what
+          we've learned over the years.
         actions:
           - label: Learn More
             url: /style-guide
