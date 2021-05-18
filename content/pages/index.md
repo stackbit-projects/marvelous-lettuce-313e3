@@ -49,7 +49,7 @@ sections:
     grid_gap_vert: medium
     background_color: none
   - type: features_section
-    title: Features Section
+    title: Shoulder Specialists Resources
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
