@@ -1,5 +1,5 @@
 ---
-title: S
+title: Shoulder Specialists
 sections:
   - type: hero_section
     subtitle: Optional hero section subtitle
