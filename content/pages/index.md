@@ -49,6 +49,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
+    background_color: primary
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
