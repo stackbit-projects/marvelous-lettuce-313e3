@@ -2,7 +2,7 @@
 title: Shoulder Specialists
 sections:
   - type: hero_section
-    subtitle: Home of th
+    subtitle: Helping you master the shoulder
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
