@@ -105,7 +105,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Shoulder Specialists is the fastest way to level up - because you're
+          “Shoulder Specialists is the fastest way to level up - because your
           best work can't wait”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
