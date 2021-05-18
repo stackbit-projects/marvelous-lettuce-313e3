@@ -86,7 +86,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Newsletter
-        subtitle: No BS. Simply proven tips that work. It's time to level up.
+        subtitle: No BS. Simply proven tips that work. It's time to level up and lead.
         content: "Shoulder Specialists also does\_**extensive research**\_on **key shoulder topics**.\n"
         actions:
           - label: Learn More
