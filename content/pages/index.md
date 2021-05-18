@@ -70,7 +70,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Shoulder Specialists Infographics
+      - title: Infographics
         content: >
           Evidence-based infographics with clinical pearls to help your patients
           get better, faster.
