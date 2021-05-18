@@ -1,5 +1,5 @@
 ---
-title: Home
+title: We
 sections:
   - type: hero_section
     subtitle: Optional hero section subtitle
