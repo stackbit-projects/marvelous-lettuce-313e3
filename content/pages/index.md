@@ -32,7 +32,7 @@ sections:
       - image: images/Durham Bone and Joint Specialists.png
         image_alt: Netlify logo
         image_align: center
-      - image: images/ShoulderSpecialists (1).png
+      - image: images/Screen Shot 2021-05-17 at 9.46.19 PM.png
         image_alt: Gatsby logo
         image_align: center
         image_position: right
