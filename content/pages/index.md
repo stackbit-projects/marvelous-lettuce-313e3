@@ -58,7 +58,7 @@ sections:
           Expertise.
         content: >
           Our goal is simple – share what we are learning now and what we've
-          learned over the years. 
+          learned over the years, including our clinical pearls.
         actions:
           - label: Learn More
             url: /style-guide
