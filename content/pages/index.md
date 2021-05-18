@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: SHOULDER-SPECIALISTS.COM
+    title: SHOULDER SPECIALISTS
     subtitle: Grid Section Example
     align: center
     grid_items:
