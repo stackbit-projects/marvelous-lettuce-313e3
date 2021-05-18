@@ -85,7 +85,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: The Big Title For the Feature
+      - title: Newsletter
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: "Shoulder Specialists also does\_**extensive research**\_on key shoulder topics\nand publishes regular articles and infographics on\_**hot topics in the field**.\n"
         actions:
