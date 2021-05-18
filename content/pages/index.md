@@ -109,6 +109,7 @@ sections:
     title: >-
       "Shoulder Specialists is the fastest way to level up - because your best
       work can't wait"
+    align: center
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
