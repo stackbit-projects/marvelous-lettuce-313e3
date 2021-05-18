@@ -53,7 +53,9 @@ sections:
     subtitle: Continuing Education
     features:
       - title: Shoulder Specialists Articles
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          Patient-Centred. Evidence-Based. Multidisciplinary. Clinical
+          Expertise.
         content: >
           Our goal is simple – share what we are learning now and what we've
           learned over the years. 
