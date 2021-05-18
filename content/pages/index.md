@@ -24,7 +24,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: SHOULDER SPECIALISTS
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image: images/TheShoulderCentre.png
