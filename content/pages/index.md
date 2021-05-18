@@ -86,7 +86,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Newsletter
-        subtitle: Proven tips that work.
+        subtitle: No BS. Simply proven tips that work.
         content: "Shoulder Specialists also does\_**extensive research**\_on key shoulder topics\non\_**hot topics in the field**.\n"
         actions:
           - label: Learn More
