@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: SHOULDER SPECIALISTS
+    title: SHOULDER SPECIALISTS AFFILIATIONS
     align: center
     grid_items:
       - image: images/TheShoulderCentre.png
