@@ -103,14 +103,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    features:
-      - title: >-
-          “Shoulder Specialists is the fastest way to level up - because your
-          best work can't wait”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
+    features: []
     feature_padding_vert: small
     background_color: none
   - type: grid_section
