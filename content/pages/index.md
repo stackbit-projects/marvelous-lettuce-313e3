@@ -52,7 +52,7 @@ sections:
     title: Shoulder Specialists Resources
     subtitle: Continuing Education
     features:
-      - title: The Big Title For the Feature
+      - title: Shoulder Specialists Articles
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
