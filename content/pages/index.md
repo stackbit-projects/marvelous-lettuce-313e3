@@ -87,10 +87,7 @@ sections:
         media_width: fifty
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "Shoulder Specialists also does\_**extensive research**\_on key shoulder topics\nand publishes regular articles and infographics on\_**hot topics in the field**.\n"
         actions:
           - label: Learn More
             url: /style-guide
