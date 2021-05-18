@@ -2,7 +2,7 @@
 title: Shoulder Specialists
 sections:
   - type: hero_section
-    subtitle: Optional hero section subtitle
+    subtitle: Home of th
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
