@@ -87,7 +87,7 @@ sections:
         media_width: fifty
       - title: Newsletter
         subtitle: Proven tips on what works.
-        content: "Shoulder Specialists also does\_**extensive research**\_on key shoulder topics\nand publishes regular articles and infographics on\_**hot topics in the field**.\n"
+        content: "Shoulder Specialists also does\_**extensive research**\_on key shoulder topics\non\_**hot topics in the field**.\n"
         actions:
           - label: Learn More
             url: /style-guide
