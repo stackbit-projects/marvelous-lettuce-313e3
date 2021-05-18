@@ -71,8 +71,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: Shoulder Specialists Infographics
-        content: |
-          Evidence-based infographics with clinical pearls.
+        content: >
+          Evidence-based infographics with clinical pearls to help your
+          patients.
         actions:
           - label: Learn More
             url: /style-guide
