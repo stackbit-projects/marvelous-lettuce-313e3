@@ -106,7 +106,7 @@ sections:
     features: []
     feature_padding_vert: small
     background_color: none
-    title: '"Shoulder Specialists'
+    title: '"Shoulder Specialists is the '
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
