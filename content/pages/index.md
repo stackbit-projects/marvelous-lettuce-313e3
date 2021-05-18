@@ -50,7 +50,7 @@ sections:
     background_color: none
   - type: features_section
     title: Shoulder Specialists Resources
-    subtitle: Features Section Example
+    subtitle: Continuing Education
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
