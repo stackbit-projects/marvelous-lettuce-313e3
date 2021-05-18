@@ -104,9 +104,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: >-
-          “Shoulder Specialists is the fastest way to level up to date. It’s
-          easy to use across the organization, and collaboration is easy.”
+      - title: “Shoulder Specialists is the fastest way to level up - ”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
