@@ -18,7 +18,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: primary
     title: SHOULDER SPECIALISTS
   - type: grid_section
     title: SHOULDER SPECIALISTS AFFILIATIONS
