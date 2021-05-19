@@ -74,8 +74,8 @@ sections:
         media_width: fifty
       - title: A Better Way To Learn Online
         content: >
-          **Evidence-based** infographics with **clinical pearls** to help your
-          patients get better, faster.
+          Latest research, clinical pearls, videos, cases & infographics to help
+          your patients get better, faster.
         actions:
           - label: Learn More
             url: /style-guide
