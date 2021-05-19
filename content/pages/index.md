@@ -8,7 +8,7 @@ sections:
     content: |
       Patient-Centred. Evidence-Based. Multidisciplinary. Clinical Expertise.
     actions:
-      - label: Join Our Community Mailing List
+      - label: Join Our Community
         url: /pricing
         style: primary
       - label: Learn More
