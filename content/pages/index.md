@@ -72,8 +72,8 @@ sections:
         media_width: fifty
       - title: Infographics
         content: >
-          Evidence-based infographics with clinical pearls to help your patients
-          get better, faster.
+          **Evidence-based** infographics with **clinical pearls** to help your
+          patients get better, faster.
         actions:
           - label: Learn More
             url: /style-guide
