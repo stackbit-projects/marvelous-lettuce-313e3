@@ -1,5 +1,4 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
