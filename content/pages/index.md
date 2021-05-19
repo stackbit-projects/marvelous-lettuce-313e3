@@ -234,8 +234,8 @@ sections:
   - type: cta_section
     title: Join Our Mailing List
     content: >
-      Join our community newsletter and we'll send you our favorite articles,
-      latest research, clinical pearls, videos, cases & infographics. 
+      Join our community's newsletter and we'll send you our favorite articles,
+      latest research, clinical pearls, videos, cases & infographics.
     actions:
       - label: Subscribe Now
         url: /features
