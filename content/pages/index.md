@@ -248,7 +248,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: Shoulder Specialists Team
-    subtitle: Grid Section Example
     actions:
       - label: Join the team
         url: /style-guide
