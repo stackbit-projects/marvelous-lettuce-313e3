@@ -13,7 +13,7 @@ sections:
     show_recent: true
     show_date: false
     show_categories: true
-    show_author: true
+    show_author: false
     show_excerpt: true
     show_image: true
     padding_top: small
