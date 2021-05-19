@@ -299,7 +299,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Subscribe To Our Newsletter
+    title: Join Our Newsletter
     content: >+
       Join our community's newsletter and we'll send you our favorite articles,
       latest research, clinical pearls, videos, cases & infographics. Time to
