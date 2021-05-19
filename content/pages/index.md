@@ -300,10 +300,11 @@ sections:
     background_color: none
   - type: cta_section
     title: Join Our Community
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >+
+      Join our community's newsletter and we'll send you our favorite articles,
+      latest research, clinical pearls, videos, cases & infographics. Time to
+      level up.
+
     actions:
       - label: Button
         url: /pricing
