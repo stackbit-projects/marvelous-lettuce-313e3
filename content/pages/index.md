@@ -302,7 +302,8 @@ sections:
     title: Join Our Community
     content: >
       Join our newsletter and we'll send you our favorite articles, latest
-      research, clinical pearls, videos, cases & infographics. Time to level up.
+      research, clinical pearls, videos, cases & infographics. Time to level up
+      - because you're best work can't wait.
     actions:
       - label: Subscribe Now
         url: /pricing
