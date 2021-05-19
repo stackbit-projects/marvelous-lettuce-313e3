@@ -232,7 +232,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: Join Our Community
+    title: Join Our Community Mailing List
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
