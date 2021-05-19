@@ -2,7 +2,9 @@
 title: Shoulder Specialists
 sections:
   - type: hero_section
-    subtitle: Free learning and collaborative community. Helping you master the shoulder
+    subtitle: >-
+      Free learning and collaborative community.              Helping you master
+      the shoulder
     content: |
       Patient-Centred. Evidence-Based. Multidisciplinary. Clinical Expertise.
     actions:
