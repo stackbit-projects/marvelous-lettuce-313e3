@@ -233,10 +233,9 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Join Our Community Mailing List
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Join our community newsletter and we'll send you our favorite articles,
+      latest research, clinical pearls, videos, cases & infographics. 
     actions:
       - label: Learn More
         url: /features
