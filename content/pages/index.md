@@ -325,7 +325,9 @@ seo:
       value: Shoulder Specialists
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: >-
+        Shoulder Specialists. Helping you master the shoulder. Patient-Centred.
+        Evidence-Based. Multidisciplinary. Clinical Expertise.
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
