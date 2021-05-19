@@ -237,7 +237,7 @@ sections:
       Join our community newsletter and we'll send you our favorite articles,
       latest research, clinical pearls, videos, cases & infographics. 
     actions:
-      - label: Learn More
+      - label: Subscribe Now
         url: /features
         style: secondary
     actions_position: right
