@@ -314,7 +314,7 @@ sections:
     background_color: secondary
 seo:
   title: Shoulder Specialists
-  description: Shoulder Specialists. Help you
+  description: 'Shoulder Specialists. Helping you master the shoulder. '
   extra:
     - name: 'og:type'
       value: website
