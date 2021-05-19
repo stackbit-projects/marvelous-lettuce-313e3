@@ -306,7 +306,7 @@ sections:
       level up.
 
     actions:
-      - label: Button
+      - label: Subscribe Now
         url: /pricing
         style: primary
     actions_position: bottom
