@@ -229,7 +229,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: secondary
+    background_color: none
   - type: cta_section
     title: Join Our Mailing List
     content: >
