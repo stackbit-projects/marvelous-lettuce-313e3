@@ -314,7 +314,9 @@ sections:
     background_color: secondary
 seo:
   title: Shoulder Specialists
-  description: 'Shoulder Specialists. Helping you master the shoulder. '
+  description: >-
+    Shoulder Specialists. Helping you master the shoulder. Patient-Centred.
+    Evidence-Based. Multidisciplinary. Clinical Expertise.
   extra:
     - name: 'og:type'
       value: website
