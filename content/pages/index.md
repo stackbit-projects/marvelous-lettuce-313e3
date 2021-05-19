@@ -330,7 +330,7 @@ seo:
         Evidence-Based. Multidisciplinary. Clinical Expertise.
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /images/Shoulder%20Specialists%20Logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
