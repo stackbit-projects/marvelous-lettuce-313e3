@@ -314,7 +314,7 @@ sections:
     background_color: secondary
 seo:
   title: Shoulder Specialists
-  description: The preview of the DIY theme
+  description: 'Shoulder Specialists '
   extra:
     - name: 'og:type'
       value: website
