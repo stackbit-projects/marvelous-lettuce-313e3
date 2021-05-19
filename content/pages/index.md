@@ -72,7 +72,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Infographics
+      - title: A Better Way To Learn Online
         content: >
           **Evidence-based** infographics with **clinical pearls** to help your
           patients get better, faster.
