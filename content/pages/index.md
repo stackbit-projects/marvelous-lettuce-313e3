@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: >-
       Free learning and collaborative community.              Helping you master
-      the shoulder
+      the shoulder.
     content: |
       Patient-Centred. Evidence-Based. Multidisciplinary. Clinical Expertise.
     actions:
