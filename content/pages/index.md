@@ -274,7 +274,7 @@ sections:
         image_position: top
     grid_cols: four
     align: center
-    background_color: secondary
+    background_color: none
   - type: blog_feed_section
     title: What's New
     subtitle: Blog & Articles
