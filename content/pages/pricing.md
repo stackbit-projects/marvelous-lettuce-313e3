@@ -14,8 +14,7 @@ sections:
 
         content_align: left
         actions:
-          - label: Start with Personal
-            url: /features
+          - url: /features
             style: primary
         actions_align: left
         actions_width: full-width
