@@ -2,7 +2,7 @@
 title: Newsletter
 sections:
   - type: hero_section
-    title: Explore Features
+    title: New
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
