@@ -198,7 +198,7 @@ sections:
         image: images/Meaghan Rollins Orthopaedic Surgeon.png
         image_position: top
       - title: Daniel Avrahami
-        subtitle: Operations Manager
+        subtitle: Orthopaedic Physician Assistant
         title_align: center
         image: images/hilary-ouse.jpg
         image_position: top
