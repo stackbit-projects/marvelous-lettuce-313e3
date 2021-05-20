@@ -43,7 +43,6 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-    subtitle: Keep up-to-date on the latest research
   - type: grid_section
     title: Reviews
     grid_items:
