@@ -187,7 +187,7 @@ sections:
         title_align: center
         image: images/Stephen Gallay Orthopaedic Surgeon.png
         image_position: top
-      - title: Dianne Ameter
+      - title: Dr. Joel Lobo
         subtitle: Software Engineer
         title_align: center
         image: images/Joel Lobo Orthopaedic Surgeon.png
