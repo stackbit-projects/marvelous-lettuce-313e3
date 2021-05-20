@@ -195,7 +195,7 @@ sections:
       - title: Hugh Saturation
         subtitle: Developer Advocate
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: images/Meaghan Rollins Orthopaedic Surgeon.png
         image_position: top
       - title: Daniel Avrahami
         subtitle: Operations Manager
