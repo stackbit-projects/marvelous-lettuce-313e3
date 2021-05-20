@@ -44,8 +44,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Start with Business
-            url: /features
+          - url: /features
             style: primary
         actions_align: left
         actions_width: full-width
