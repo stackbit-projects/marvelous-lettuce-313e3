@@ -23,9 +23,7 @@ sections:
         actions_width: full-width
       - title_align: left
         content_align: left
-        actions:
-          - url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
     grid_cols: three
