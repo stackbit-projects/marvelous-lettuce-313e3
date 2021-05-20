@@ -78,6 +78,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
+    subtitle: hello
 seo:
   title: Products
   description: This is the products page
