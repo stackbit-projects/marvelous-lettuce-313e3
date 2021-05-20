@@ -193,7 +193,7 @@ sections:
         image: images/Joel Lobo Orthopaedic Surgeon.png
         image_position: top
       - title: Dr. Meaghan Rollins
-        subtitle: Developer Advocate
+        subtitle: Orthopaedic Surgeon
         title_align: center
         image: images/Meaghan Rollins Orthopaedic Surgeon.png
         image_position: top
