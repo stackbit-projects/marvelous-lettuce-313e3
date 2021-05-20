@@ -174,7 +174,7 @@ sections:
     background_color: primary
 seo:
   title: Newsletter
-  description: This is the features page
+  description: This is the Newsletter page
   extra:
     - name: 'og:type'
       value: website
