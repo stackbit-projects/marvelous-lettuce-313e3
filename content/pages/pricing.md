@@ -21,8 +21,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Start with Premium
-            url: /features
+          - url: /features
             style: primary
         actions_align: left
         actions_width: full-width
