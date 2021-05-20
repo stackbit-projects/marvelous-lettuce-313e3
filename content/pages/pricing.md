@@ -123,7 +123,7 @@ sections:
     background_color: secondary
 seo:
   title: Products
-  description: This is the pricing page
+  description: This is the products page
   extra:
     - name: 'og:type'
       value: website
