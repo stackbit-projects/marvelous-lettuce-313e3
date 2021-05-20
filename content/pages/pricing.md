@@ -8,8 +8,7 @@ sections:
     title: 'No Products Available '
   - type: grid_section
     grid_items:
-      - subtitle: Optional subtitle
-        title_align: left
+      - title_align: left
         content: |-
           ---
 
