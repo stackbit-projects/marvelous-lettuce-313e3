@@ -182,7 +182,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Gustav Purpleson
+      - title: Stephen Gallay
         subtitle: Co-Founder & CEO
         title_align: center
         image: images/Stephen Gallay Orthopaedic Surgeon.png
