@@ -192,7 +192,7 @@ sections:
         title_align: center
         image: images/Joel Lobo Orthopaedic Surgeon.png
         image_position: top
-      - title: Hugh Saturation
+      - title: Dr. Meaghan Rollins
         subtitle: Developer Advocate
         title_align: center
         image: images/Meaghan Rollins Orthopaedic Surgeon.png
