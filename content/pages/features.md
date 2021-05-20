@@ -3,7 +3,9 @@ title: Newsletter
 sections:
   - type: hero_section
     title: Newsletter
-    subtitle: Features Page Demo
+    subtitle: >-
+      Tell me more! The best way to learn about the shoulder is by signing up
+      for our newsletter. We'll share insights from the shoulder world including
     background_color: primary
   - type: features_section
     features:
