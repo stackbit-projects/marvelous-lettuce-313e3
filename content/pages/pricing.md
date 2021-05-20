@@ -132,7 +132,7 @@ seo:
       value: Products
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: This is the products page
       keyName: property
     - name: 'og:image'
       value: images/about-3.jpg
