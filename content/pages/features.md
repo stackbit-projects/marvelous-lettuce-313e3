@@ -194,7 +194,7 @@ seo:
     - name: 'twitter:title'
       value: Newsletter
     - name: 'twitter:description'
-      value: This is the features page
+      value: This is the Newsletter page
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
