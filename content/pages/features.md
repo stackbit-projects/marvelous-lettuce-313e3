@@ -6,8 +6,8 @@ sections:
     subtitle: >-
       Tell me more! The best way to learn about the shoulder is by signing up
       for our newsletter. We'll share insights from the shoulder world including
-      Latest research, clinical pearls, videos, cases & infographics to help
-      your patients get better, faster.
+      atest research, clinical pearls, videos, cases & infographics to help your
+      patients get better, faster.
     background_color: primary
   - type: features_section
     features:
