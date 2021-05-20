@@ -11,7 +11,7 @@ sections:
       - label: Subscribe & Join Our Community
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Subscribe & Join Our Community
         url: /features
         style: secondary
     image_alt: Hero section placeholder image
