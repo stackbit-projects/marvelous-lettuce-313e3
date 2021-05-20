@@ -122,7 +122,7 @@ sections:
     has_border: false
     background_color: secondary
 seo:
-  title: Pricing
+  title: Products
   description: This is the pricing page
   extra:
     - name: 'og:type'
