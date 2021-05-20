@@ -76,7 +76,7 @@ sections:
     title: Join Our Community
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
-      - label: buS
+      - label: bUS
         url: /pricing
         style: primary
     actions_position: right
