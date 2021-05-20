@@ -13,9 +13,7 @@ sections:
           ***
 
         content_align: left
-        actions:
-          - url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - title_align: left
