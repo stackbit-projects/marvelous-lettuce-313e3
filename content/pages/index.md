@@ -200,7 +200,7 @@ sections:
       - title: Daniel Avrahami
         subtitle: Orthopaedic Physician Assistant
         title_align: center
-        image: images/hilary-ouse.jpg
+        image: images/Daniel Avrahami Orthopaedics.png
         image_position: top
     grid_cols: four
     align: center
