@@ -2,7 +2,6 @@
 title: Products
 sections:
   - type: hero_section
-    title: Pick Your Plan
     subtitle: Optional hero section subtitle
     align: center
     padding_top: large
