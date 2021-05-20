@@ -182,7 +182,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Stephen Gallay
+      - title: Dr. Stephen Gallay
         subtitle: Orthopaedic Surgeon
         title_align: center
         image: images/Stephen Gallay Orthopaedic Surgeon.png
