@@ -173,7 +173,7 @@ sections:
     has_border: false
     background_color: primary
 seo:
-  title: Features
+  title: Newsletter
   description: This is the features page
   extra:
     - name: 'og:type'
