@@ -9,9 +9,6 @@ sections:
       Patient-Centred. Evidence-Based. Multidisciplinary. Clinical Expertise.
     actions:
       - label: Subscribe & Join Our Community
-        url: /pricing
-        style: primary
-      - label: Subscribe & Join Our Community
         url: /features
         style: secondary
     image_alt: Hero section placeholder image
