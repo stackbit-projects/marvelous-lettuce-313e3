@@ -46,8 +46,7 @@ sections:
       - {}
       - {}
       - {}
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: >-
+      - content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
           pulvinar neque laoreet suspendisse interdum consectetur libero.
