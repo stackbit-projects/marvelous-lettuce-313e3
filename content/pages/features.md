@@ -183,7 +183,7 @@ seo:
       value: Newsletter
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: This is the Newsletter page
       keyName: property
     - name: 'og:image'
       value: images/about-3.jpg
