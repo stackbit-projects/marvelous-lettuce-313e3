@@ -188,7 +188,7 @@ sections:
         image: images/Stephen Gallay Orthopaedic Surgeon.png
         image_position: top
       - title: Dr. Joel Lobo
-        subtitle: Software Engineer
+        subtitle: Orthopaedic Surgeon
         title_align: center
         image: images/Joel Lobo Orthopaedic Surgeon.png
         image_position: top
