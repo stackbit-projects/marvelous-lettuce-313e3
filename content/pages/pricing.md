@@ -2,7 +2,6 @@
 title: Products
 sections:
   - type: hero_section
-    subtitle: Optional hero section subtitle
     align: center
     padding_top: large
     padding_bottom: small
