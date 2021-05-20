@@ -183,7 +183,7 @@ sections:
         style: primary
     grid_items:
       - title: Stephen Gallay
-        subtitle: Co-Founder & CEO
+        subtitle: Orthopaedic Surgeon
         title_align: center
         image: images/Stephen Gallay Orthopaedic Surgeon.png
         image_position: top
