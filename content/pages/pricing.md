@@ -6,6 +6,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
+    title: No Products Available at
   - type: grid_section
     grid_items:
       - title: Personal
