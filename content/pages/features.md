@@ -38,8 +38,8 @@ sections:
         media_width: fifty
       - title: Clinical Expertise
         content: >
-          Expertise and clinical pearls from shoulder specialists to help you
-          level-up and get your patients better, faster.
+          Years of experience, clinical pearls and expertise from shoulder
+          specialists to help you level-up and get your patients better, faster.
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
