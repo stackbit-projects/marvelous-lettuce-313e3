@@ -14,7 +14,7 @@ sections:
         media_position: right
         media_width: fifty
         subtitle: >-
-          Upper extremity fellowship trained shoulder surgeons provide their
+          Upper extremity fellowship trained shoulder surgeons sharing their
           clinical expertise on all things shoulder.
       - title: Non-Surgeon Shoulder Specialists
         subtitle: "Multidisciplinary shoulder specialists\_sharing with you the latest research, their clinical experience, along with tips and tricks to help you level-up and get your patients better."
