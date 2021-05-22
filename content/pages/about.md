@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: Shoulder Specialists
+    title: SHOULDER SPECIALISTS
     align: center
     background_color: secondary
     subtitle: About Us
