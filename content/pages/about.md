@@ -9,8 +9,6 @@ sections:
   - type: features_section
     features:
       - title: Orthopaedic Surgeons
-        content: |
-          Upper Extremity Fellowship Trained Surgeons
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
