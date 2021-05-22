@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Orthopaedic Surgeons
-        subtitle: Upper Extremity Fellow
+        subtitle: Upper Extremity Fellowship Trained Surgeons
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
