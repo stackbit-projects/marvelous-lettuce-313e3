@@ -28,7 +28,7 @@ sections:
       You're ready. Now is the best time to level-up and become a shoulder
       specialist. 
     actions:
-      - label: Compare Plans
+      - label: Tell Me More
         url: /pricing
         style: primary
     align: center
