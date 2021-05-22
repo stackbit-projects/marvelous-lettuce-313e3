@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Shoulder Specialists
     align: center
-    background_color: none
+    background_color: secondary
     subtitle: About Us
   - type: features_section
     features:
