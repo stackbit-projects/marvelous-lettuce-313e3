@@ -37,10 +37,9 @@ sections:
         media_position: left
         media_width: fifty
       - title: Clinical Expertise
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Expertise and clinical pearls from shoulder specialists to help you
+          level-up and get your patients better, faster.
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
