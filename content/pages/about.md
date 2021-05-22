@@ -25,8 +25,8 @@ sections:
   - type: cta_section
     title: A Better Way To Learn
     content: >
-      Subscribe now and we'll send you the goods on a weekly basis. No BS. Just
-      the stuff that will help you and your patients.
+      You're ready. Now is the best time to level-up and become a shoulder
+      specialist. 
     actions:
       - label: Compare Plans
         url: /pricing
