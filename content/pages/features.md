@@ -12,10 +12,11 @@ sections:
   - type: features_section
     features:
       - title: Evidence-Based
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          We help you stay current with our growing library of the highest
+          quality shoulder musculoskeletal research relevant to your field,
+          practice and peers.
+
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right
