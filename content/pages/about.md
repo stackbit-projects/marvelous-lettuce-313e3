@@ -5,6 +5,7 @@ sections:
     title: Shoulder Specialists
     align: center
     background_color: secondary
+    subtitle: About Us
   - type: features_section
     features:
       - title: Section Title One
