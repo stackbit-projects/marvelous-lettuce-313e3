@@ -9,7 +9,6 @@ sections:
   - type: features_section
     features:
       - title: Orthopaedic Surgeons
-        subtitle: Upper Extremity Fellowship
         content: |
           Orthopaedic shoulder surgeon specialists
         image: images/about-5.jpg
