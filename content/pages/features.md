@@ -17,7 +17,7 @@ sections:
           quality shoulder musculoskeletal research relevant to your field,
           practice and peers.
 
-        image: images/about-3.jpg
+        image: images/All-Evidence-Based-Practice-steps.jpeg
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
