@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Orthopaedic Surgeons
-        image: images/about-5.jpg
+        image: images/orthopaedic surgeon shoulder specialists.png
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
