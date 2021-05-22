@@ -16,7 +16,7 @@ sections:
         subtitle: >-
           Upper extremity fellowship trained orthopaedic surgeons provide their
           clinical expertise on all things shoulder.
-      - title: Section Title Two
+      - title: Non-Surgeon Shoulder Specialists
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
