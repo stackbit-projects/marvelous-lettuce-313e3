@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Orthopaedic Surgeons
-        subtitle: Upper Limb fellowship specializing in Shoulder surgery
+        subtitle: Upper extremity fellowship shoulder surgeons
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
