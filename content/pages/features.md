@@ -29,9 +29,6 @@ sections:
           chiropractors, occupational therapists, athletic therapists, massage
           therapists, personal trainers, strength and conditioning coaches and
           kinesiologists.
-        video_embed_html: >-
-          allow="accelerometer; autoplay; encrypted-media; gyroscope;
-          picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
       - title: Clinical Expertise
