@@ -18,10 +18,6 @@ sections:
           clinical expertise on all things shoulder.
       - title: Non-Surgeon Shoulder Specialists
         subtitle: "Multidisciplinary shoulder specialists\_sharing with you the latest research, their clinical experience, along with tips and tricks to help you level-up and get your patients better."
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
