@@ -36,7 +36,7 @@ sections:
         content: >
           Years of experience, clinical pearls and expertise from shoulder
           specialists to help you level-up and get your patients better, faster.
-        image: images/about-1.jpg
+        image: images/clinical expertise.jpeg
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
