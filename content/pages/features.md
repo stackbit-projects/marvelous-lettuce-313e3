@@ -26,7 +26,7 @@ sections:
           A multidisciplinary approach to the shoulder with continuing medical
           education for physicians, nurses, physician assistants and
           rehabilitation professionals such as physical therapists,
-          chiropractors, occupational therapists, athletic therapists, massage
+          chiropractors, occupational therapists, athletic trainers, massage
           therapists, personal trainers, strength and conditioning coaches and
           kinesiologists.
         media_position: left
