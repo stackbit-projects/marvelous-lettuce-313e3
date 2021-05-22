@@ -31,6 +31,7 @@ sections:
           kinesiologists.
         media_position: left
         media_width: fifty
+        image: images/multidisciplinary.png
       - title: Clinical Expertise
         content: >
           Years of experience, clinical pearls and expertise from shoulder
