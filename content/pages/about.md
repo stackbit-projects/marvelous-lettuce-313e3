@@ -17,7 +17,7 @@ sections:
         media_width: fifty
         subtitle: >-
           Upper extremity fellowship trained orthopaedic surgeons with special
-          interest in s
+          intere
       - title: Section Title Two
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
