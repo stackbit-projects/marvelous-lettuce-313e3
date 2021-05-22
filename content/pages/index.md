@@ -174,10 +174,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Shoulder Specialists Team
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
+    actions: []
     grid_items:
       - title: Dr. Stephen Gallay
         subtitle: Orthopaedic Surgeon
