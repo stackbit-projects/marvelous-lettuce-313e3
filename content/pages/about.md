@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Orthopaedic Surgeons
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Upper Limb fellowship specializing in Shoulder surgery
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
