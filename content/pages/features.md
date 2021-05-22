@@ -11,7 +11,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Better Evidence. Better Decisions
+      - title: Better Evidence. Better Decisions.
         content: >+
           We help you stay current with our growing library of the highest
           quality shoulder musculoskeletal research relevant to your field,
