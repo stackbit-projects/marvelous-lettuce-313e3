@@ -24,8 +24,11 @@ sections:
       - title: Multidisciplinary
         content: >
           A multidisciplinary approach to the shoulder with continuing medical
-          education for physicians, nursing and allied healthcare
-          professionals. 
+          education for physicians, nurses, physician assistants and
+          rehabilitation professionals such as physical therapists,
+          chiropractors, occupational therapists, athletic therapists, massage
+          therapists, personal trainers, strength and conditioning coaches and
+          kinesiologists.
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
