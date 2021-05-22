@@ -24,7 +24,9 @@ sections:
         media_width: fifty
   - type: cta_section
     title: Join Our Community
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: >
+      Subscribe now and we'll send you the goods on a weekly basis. No BS. Just
+      the stuff that will help you and your patients.
     actions:
       - label: Compare Plans
         url: /pricing
