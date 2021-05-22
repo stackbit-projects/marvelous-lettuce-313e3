@@ -10,7 +10,7 @@ sections:
     features:
       - title: Orthopaedic Surgeons
         content: |
-          Orthopaedic shoulder surgeon specialists
+          Upper Extremity Fellowship Trained Surgeons
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
