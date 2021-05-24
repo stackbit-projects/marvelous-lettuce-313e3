@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: ' woH'
+    title: How Can We Help?
     subtitle: >-
       Have a question? Send us a note using the form below and we will be in
       touch soon.
