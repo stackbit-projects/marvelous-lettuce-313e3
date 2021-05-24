@@ -34,7 +34,7 @@
             },
             {
                 "label": "Evidence",
-                "url": "#",
+                "url": "/evidence",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
