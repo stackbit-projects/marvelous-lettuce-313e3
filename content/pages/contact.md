@@ -53,9 +53,7 @@ sections:
         image_has_padding: true
       - title: Other Queries
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+        content: "Please feel free to send us any of your general questions. We get A LOT of emails and we try our best to respond.\_**We do not respond to emails regarding medical issues.**\n"
         content_align: center
         actions:
           - label: Get Support
