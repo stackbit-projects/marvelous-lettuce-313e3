@@ -31,25 +31,6 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Help & Support
-        title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
-        content_align: center
-        actions:
-          - label: Get Support
-            url: /general-enquiries
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: images/classic/icon-2.svg
-        image_alt: Help and support icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
       - title: Queries
         title_align: center
         content: "Please feel free to send us any of your general questions. We get A LOT of emails and we try our best to respond.\_**We do not respond to emails regarding medical issues.**\n"
