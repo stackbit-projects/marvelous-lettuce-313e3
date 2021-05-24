@@ -28,6 +28,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        image_width: thirty-three
       - title: Queries
         title_align: center
         content: "Please feel free to send us any of your general questions. We get A LOT of emails and we try our best to respond.\_**We do not respond to emails regarding medical issues.**\n"
