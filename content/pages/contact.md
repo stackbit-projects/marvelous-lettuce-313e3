@@ -56,7 +56,7 @@ sections:
         content: "Please feel free to send us any of your general questions. We get A LOT of emails and we try our best to respond.\_**We do not respond to emails regarding medical issues.**\n"
         content_align: center
         actions:
-          - label: Get Support
+          - label: How Can We Help?
             url: /general-enquiries
             style: primary
             has_icon: true
