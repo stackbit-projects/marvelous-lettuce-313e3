@@ -19,7 +19,7 @@ sections:
           If you have interest in partnering with us feel free to contact us.
         content_align: center
         actions:
-          - label: Get Support
+          - label: Partnering
             url: /general-enquiries
             style: link
             has_icon: true
