@@ -192,7 +192,7 @@ sections:
         image: images/Meaghan Rollins Orthopaedic Surgeon.png
         image_position: top
       - title: Daniel Avrahami
-        subtitle: Orthopaedic Physician Assistant
+        subtitle: 'BScPA (Ortho), DC, MSc, CSCS'
         title_align: center
         image: images/Daniel Avrahami Orthopaedics.png
         image_position: top
