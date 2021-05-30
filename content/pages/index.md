@@ -5,8 +5,9 @@ sections:
     subtitle: >-
       Free learning and collaborative community.              Helping you master
       the shoulder.
-    content: |
-      Patient-Centred. Evidence-Based. Multidisciplinary. Clinical Expertise.
+    content: >
+      Patient-Centred. Evidence-Based. Multidisciplinary. Orthopaedic Education.
+      Clinical Expertise.
     actions:
       - label: Subscribe & Join Our Community
         url: /features
