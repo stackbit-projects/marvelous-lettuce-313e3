@@ -202,7 +202,7 @@ sections:
     background_color: none
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog & Articles
+    subtitle: Articles & Resources
     actions:
       - label: View All
         url: /blog
