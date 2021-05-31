@@ -52,7 +52,7 @@ sections:
     title: Shoulder Specialists Resources
     subtitle: Continuing Education
     features:
-      - title: Articles
+      - title: Articles & Resources
         subtitle: >-
           Patient-Centred. Evidence-Based. Multidisciplinary. Clinical
           Expertise.
